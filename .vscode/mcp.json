@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"expense-tracker-mcp": {
+			"type": "stdio",
+			"command": "uv",
+			"args": [
+				"run",
+				"main.py"
+			]
+		}
+	},
+	"inputs": []
+}
