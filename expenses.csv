@@ -15,4 +15,4 @@ date,amount,category,description,payment_method
 2024-08-05,125.00,shopping,"New shoes",CASH
 2024-08-05,22.99,entertainment,"Streaming service",CASH
 2025-08-05,50.0,Clothing,T-shirt,CASH
-2025-08-10,15.5,Lunch,Lunch at the cafe,CASH
+2025-08-10,50.0,shopping,phone case,VISA
